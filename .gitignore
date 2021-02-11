@@ -1,5 +1,6 @@
-kola.txt
-__pycache__
+
+__pycache__/
+kkk/
 docker-compose.yaml
 .py[cod]
 3 docker-compose.yaml
